@@ -67,14 +67,17 @@ Cada cop que hi realitzeu canvis haureu de:
 ### Desinstal·lar l'aplicació
 Des de la llista d'aplicacions podeu cercar l'aplicació altre cop ("Agents") i procedir a desinstal·lar-ho:
 
-![Captura: Desinstal·lar l'aplicació](./odoo-app-sample/assets/img/captura5-desinstalar.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/facb9ebe-3c4b-4957-80b8-b413506e43a7)
+
 
 ### Eliminar l'aplicació del catàleg
 Des de la llista d'aplicacions, altre cop, cal cercar l'aplicació i accedir a "Mas información" per poder-la suprimir del catàleg:
 
-![Captura: Més informació sobre l'aplicació](./odoo-app-sample/assets/img/captura6-mes-info-aplicacio.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/609c6e0c-e6ac-46bb-9c22-867e2f75a194)
 
-![Captura: Suprimir l'aplicació](./odoo-app-sample/assets/img/captura7-suprimir-aplicacio-cataleg.png)
+
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/efdba35c-6dac-4c5b-962b-83d585a22cd4)
+
 
 ### Reiniciar el servei
 Finalment, abans de tornar a instal·lar el mòdul cap reiniciar el servei que gestiona el servidor de Odoo. 
