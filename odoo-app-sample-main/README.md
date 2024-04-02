@@ -40,15 +40,17 @@ Adjuntem captura:
 
 i tot seguit...
 
-![Captura: Actualitzar llista d'aplicacions (2)](./odoo-app-sample/assets/img/captura2-actualitzar-llista-aplicacions-2.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/ecb928b9-9d9d-4f9c-9fb8-0449f280d12d)
+
 
 Una vegada actualitzat ja podem cercar la nova aplicació des del buscador d'aplicacions i activar-la perquè quedi instal·lada:
 
-![Captura: Instal·lar aplicació](./odoo-app-sample/assets/img/captura3-instalar-aplicacio.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/11e4d415-3166-4c5f-a24a-de0724a3c75e)
+
 
 Si tot ha anat correctament ja ens apareixerà l'opció de **External Agents** a la llista d'aplicacions del sistema. Al entrar-hi veurem que s'ha emplenat la taula corresponent amb les dades d'exemples de l'arxiu .CSV de la carpeta `data`:
 
-![Captura: Pantalla d'agents](./odoo-app-sample/assets/img/captura4-pantalla-agents.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/770dd9a2-5d63-47cf-8525-7728d91786b0)
 
 ### Proveu i remeneu
 A partir d'aquí, podeu provar de crear, editar i eliminar diferents agents de la base de dades de l'aplicació instal·lada. Veureu com en realitat amb pocs passos em pogut desplegar una aplicació integrada en el nostre ERP. Amb uns quants coneixements més podríem ampliar la complexitat i interrelació d'aquesta aplicació amb altres mòduls i aplicacions del nostre ERP per donar-li encara més sentit.
