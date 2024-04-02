@@ -75,7 +75,6 @@ Des de la llista d'aplicacions, altre cop, cal cercar l'aplicació i accedir a "
 ![Captura: Suprimir l'aplicació](./odoo-app-sample/assets/img/captura7-suprimir-aplicacio-cataleg.png)
 
 ### Reiniciar el servei
-Finalment, abans de tornar a instal·lar el mòdul cap reiniciar el servei que gestiona el servidor de Odoo. Pel cas de Windows és `odoo-server-x` des de la llsita de serveis del sistema:
+Finalment, abans de tornar a instal·lar el mòdul cap reiniciar el servei que gestiona el servidor de Odoo. 
 
-![Captura: Reinici servei Odoo](./odoo-app-sample/assets/img/captura8-reiniciar-servei.png)
-
+sudo systemctl restart odoo.service
