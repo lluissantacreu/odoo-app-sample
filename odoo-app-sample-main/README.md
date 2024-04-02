@@ -25,8 +25,6 @@ El directori `assets` conté únicament imatges per a la documentació d'aquest 
 És **molt important** activar el mode desenvolupador a l'aplicació, per tal de poder recarregar la llista de mòduls disponibles. Podeu fer-ho des de:
 ![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/a3c3a945-93a1-425f-bb44-c0c4f0ca20a0)
 
-![Captura: Activar mode desenvolupador](./odoo-app-sample/assets/img/captura1-activar-mode-desenvolupador.png).
-
 ### On ubicar-ho?
 Heu de desar el contingut del repositori en una nova carpeta, anomenada per exemple `agents` dins de `C:\Program Files\Odoo 16.0.x\server\odoo\addons`. Aquí podeu anar creant carpetes pels diferents mòduls que vulgueu desplegar a la vostra instal·lació del Odoo.
 
