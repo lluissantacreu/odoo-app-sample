@@ -23,6 +23,7 @@ El directori `assets` conté únicament imatges per a la documentació d'aquest 
 ## Instal·lació
 ### Activar el mode desenvolupador
 És **molt important** activar el mode desenvolupador a l'aplicació, per tal de poder recarregar la llista de mòduls disponibles. Podeu fer-ho des de:
+
 ![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/a3c3a945-93a1-425f-bb44-c0c4f0ca20a0)
 
 ### On ubicar-ho?
@@ -35,7 +36,7 @@ Aplicaciones >> Actualizar lista de aplicaciones
 ```
 Adjuntem captura:
 
-![Captura: Actualitzar llista d'aplicacions](./odoo-app-sample/assets/img/captura2-actualitzar-llista-aplicacions.png)
+![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/dcdc3874-e601-4e4a-a371-bfb6d6604da0)
 
 i tot seguit...
 
