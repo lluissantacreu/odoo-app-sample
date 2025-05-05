@@ -27,7 +27,7 @@ El directori `assets` conté únicament imatges per a la documentació d'aquest 
 ![image](https://github.com/lluissantacreu/odoo-app-sample/assets/152057534/a3c3a945-93a1-425f-bb44-c0c4f0ca20a0)
 
 ### On ubicar-ho?
-Heu de desar el contingut del repositori en una nova carpeta, anomenada per exemple `agents` dins de `C:\Program Files\Odoo 16.0.x\server\odoo\addons`. Aquí podeu anar creant carpetes pels diferents mòduls que vulgueu desplegar a la vostra instal·lació del Odoo.
+Heu de desar el contingut del repositori en una nova carpeta, anomenada per exemple `agents` dins de `/opt/odoo/addons`. Aquí podeu anar creant carpetes pels diferents mòduls que vulgueu desplegar a la vostra instal·lació del Odoo.
 
 ### Com instal·lar l'aplicació
 Perquè detecti la nova aplicació, haurem d'actualitzar la llista d'aplicacions disponibles al sistema a través de l'opció:
